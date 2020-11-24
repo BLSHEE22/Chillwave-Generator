@@ -2,3 +2,7 @@
 An engine that randomly generates chillwave music.
 
 The "randomMusic.circ" file is intended to be loaded by Logisim-evolution (https://github.com/kevinawalsh/logisim-evolution).
+
+The MIPS instructions "random.txt" should then be loaded into the circuit.
+
+Further instructions are listed inside the circuit!
